@@ -57,6 +57,6 @@ module.exports = Comment;
 ```
 
 # create diagrams to explain how the schema for database will look like
-![eOAiN](https://user-images.githubusercontent.com/80479635/164514324-31e4ab72-d24b-43ae-9750-7d8c790d8b8e.png)
+![hwhv3th01](https://user-images.githubusercontent.com/80479635/164515094-dabbdd02-c5bf-43eb-aa25-343b96636aad.svg)
 
 
